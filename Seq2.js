@@ -1,4 +1,2 @@
-let number1 = (Math.floor(Math.random()*6)) +1;
-let number2 = (Math.floor(Math.random()*6)) +1;
-let sum = number1 + number2;
-console.log(sum);
+let number = (Math.floor(Math.random()*6)) +1;
+console.log(number);
